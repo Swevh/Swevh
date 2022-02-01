@@ -7,6 +7,7 @@
 
 Estudando na Estácio de sá.<br/>
 Trabalhando na Brisanet.<br/>
+  Este será um perfil para colocar meus repositórios de aprendizado e algumas brincadeiras
 
 Eu sou desenvolvedor Hellimateas `Swevh`.
 
